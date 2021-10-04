@@ -1,0 +1,31 @@
+name: py38
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - matplotlib
+  - xarray
+  - netcdf4
+  - scikit-learn
+  - basemap
+  - basemap-data-hires
+  - jupyter
+  - opencv
+  - astropy
+  - seawater
+  - proj4
+  - img2pdf
+  - flask
+  - statsmodels
+  - argopy
+  - aiohttp
+  - pyaudio
+  - pdfrw
+  - tqdm
+  - voila
+  - ipympl
+  - appmode
+prefix: /Users/closes/miniconda3/envs/py38
