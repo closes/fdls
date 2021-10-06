@@ -5,7 +5,9 @@ channels:
 dependencies:
   - python
   - numpy
+  - matplotlib
   - jupyter
+  - tqdm
   - voila
   - ipympl
-
+prefix: 
